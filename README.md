@@ -1,7 +1,7 @@
-# ANDROID
+# Android Studio Projecs
+I'm learning coding for android and making some apps along side with it.
 
-Here are my projects I made for Android
 
-#### DOWNLOADS:
+#### Download
 - [Calculator](https://github.com/isiddharthasharma/Android/releases)
 - [iSpyron U.I Prototype](https://github.com/isiddharthasharma/Android/releases/tag/0.1)
